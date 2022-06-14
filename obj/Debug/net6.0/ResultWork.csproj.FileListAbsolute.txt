@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\bin\Debug\net6.0\ResultWork.exe
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\bin\Debug\net6.0\ResultWork.deps.json
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\bin\Debug\net6.0\ResultWork.runtimeconfig.json
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\bin\Debug\net6.0\ResultWork.dll
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\bin\Debug\net6.0\ResultWork.pdb
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.AssemblyInfo.cs
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.dll
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\refint\ResultWork.dll
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.pdb
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ResultWork.genruntimeconfig.cache
+C:\Users\user\Desktop\git обучение\Petrova June\Result_Task\ResultWork\obj\Debug\net6.0\ref\ResultWork.dll
